@@ -1,4 +1,4 @@
-#Chapter 3
+# Chapter 3
 ## 04/15/2021
 ## HTML Introduction
 HTML is the standard markup language for creating Web pages.
