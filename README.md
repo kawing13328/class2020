@@ -36,6 +36,7 @@ HTML DOM - html document object model
 
 HW: read about different message types, this will help you to understand the API and messages used in an API as a connection between server and webpage(local on the browser)
 Note: remember status codes: 200, 401, 404, 500, 300, 201
+
 ---
 
 ### What type of Elements we can see on the web page?
