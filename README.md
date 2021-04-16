@@ -32,9 +32,11 @@ HTML DOM - html document object model
 ![HTML forms](data/html-dom.svg)
 
 ----
-**NOTE: Find out more about http messages and popular status codes** [here](https://www.w3schools.com/tags/ref_httpmessages.asp)
 
-HW: read about different message types, this will help you to understand the API and messages used in an API as a connection between server and webpage(local on the browser)
+***NOTE: Find out more about http messages and popular status codes [here](https://www.w3schools.com/tags/ref_httpmessages.asp)***
+
+#### Homework: 
+Read about different message types, this will help you to understand the API and messages used in an API as a connection between server and webpage(local on the browser)
 Note: remember status codes: 200, 401, 404, 500, 300, 201
 
 ---
