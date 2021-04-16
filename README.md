@@ -172,3 +172,8 @@ Some text here
 
 Please check the automation test example for finding the element and doing some action on this element. [find element by exapmle](finding_elements.py)
 
+----
+## References: 
+1. [HTTP messages used in API calls](https://www.w3schools.com/tags/ref_httpmessages.asp)
+2. [HTML document and tags](https://www.w3schools.com/tags/tag_span.asp)
+3. [Selenium Book](data/Learning_Selenium.pdf)
