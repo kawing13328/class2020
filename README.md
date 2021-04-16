@@ -113,10 +113,10 @@ here 'div' is a tag and 'class' is an attribute.
 type
 
 ### Using chrome developers tools options to inspect web elements
-- purple - tags
-- red - attributes
-- blue - values of attributes
-- black - text in the of the elements, that are in the tags
+-  <h4 style=color:purple>Tags are purple</h4>
+- <h4 style=color:red>Attributes are in red</h4>
+- <h4 style=color:blue>Values of the attributes will be in blue</h4>
+- <h4 style=color:black>text in the elements, that are in the tags, will be in black</h4>
 
 ---
 
